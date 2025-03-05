@@ -1,4 +1,5 @@
-📈 Stock Price Prediction Model
+Stock Price Prediction Model 📈 
+
 📌 Overview
 This project aims to predict stock prices using machine learning. It compares actual vs predicted closing prices and visualizes them using Matplotlib for better insights.
 

@@ -12,3 +12,9 @@ Visualizes the results using line plots
 To Run: 
 Install all the necessary packages (venv)
 Run the stocks.ipynb file using jupyter notebook
+
+
+
+
+
+![image](https://github.com/user-attachments/assets/91ce5076-8b21-4419-ba05-30e43b09bada)

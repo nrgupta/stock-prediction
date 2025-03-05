@@ -5,9 +5,13 @@ This project aims to predict stock prices using machine learning. It compares ac
 
 🚀 Features
 Fetches historical stock data
+
 Trains a predictive model
+
 Compares actual vs predicted stock prices
+
 Visualizes the results using line plots
+
 📊 Visualization
 The model generates a line plot comparing actual vs predicted closing prices, zoomed in for clarity.
 
